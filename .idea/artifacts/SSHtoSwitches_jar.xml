@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SSHtoSwitches:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SSHtoSwitches_jar</output-path>
+    <root id="archive" name="SSHtoSwitches.jar">
+      <element id="module-output" name="SSHtoSwitches" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jsch-0.1.55.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
